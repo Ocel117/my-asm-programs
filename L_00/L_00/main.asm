@@ -7,7 +7,7 @@
 	2.View Help (Ayuda en IDE)
 		-Assembler syntax **Register restriction (0-15 & 16-31)
 		-Assembler directives
-		-Expressions
+		-Expressionsl
 			-functions
 			-operands
 			-operators
